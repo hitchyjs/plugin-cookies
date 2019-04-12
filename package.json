@@ -1,6 +1,6 @@
 {
   "name": "hitchy-plugin-cookies",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "per-request cookie parser for Hitchy",
   "main": "index.js",
   "scripts": {
