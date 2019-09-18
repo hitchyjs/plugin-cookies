@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "mocha --recursive --ui bdd test/scripts",
-    "lint": "eslint ."
+		"style": "eslint ."
 	},
 	"author": "",
 	"license": "MIT",
