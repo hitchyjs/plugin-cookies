@@ -17,5 +17,8 @@
 		"mocha": "^6.2.0",
 		"should": "^13.2.3",
 		"should-http": "^0.1.1"
+	},
+	"peerDependencies": {
+		"hitchy": "0.3.x"
 	}
 }
